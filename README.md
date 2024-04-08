@@ -41,3 +41,6 @@ Are you usually using additional tools in your projects? We can’t wait to hear
 
 ## Encouragement
 Digication team members have worked through this work sample to make sure we are not asking for too much of your time. This shouldn't take you longer than 2 to 4 hours depending on your knowledge and the bells and whistles you want to add. We are looking forward to hearing from you!
+
+## Requirements
+This project requires Node.js v16, not v18.
