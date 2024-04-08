@@ -6,4 +6,5 @@ export default interface ModuleInterface {
     w: number;
     h: number;
   }
+  overlaps(module: ModuleInterface): boolean;
 }
